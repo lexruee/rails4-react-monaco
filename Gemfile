@@ -49,3 +49,5 @@ end
 gem "webpacker", "~> 4.0"
 
 gem "react-rails", "~> 2.5"
+
+gem "haml-rails", "= 1.0.0"
